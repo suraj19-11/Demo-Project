@@ -1,2 +1,2 @@
 # Demo-Project
-this is demo for git and github class
+This is only for practice to learn git hub
